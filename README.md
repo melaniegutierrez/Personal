@@ -3,10 +3,13 @@
 
 **1 OBJETIVOS**
 
+- **Objetivo General**
 
+Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes mediante su representación con un circuito mixto en el simulador Tinkercad, lo cual ayudara al estudio de circuitos resistivos con fuentes de diferencia de potencial continuo.
 
+- **Objetivos Específicos**
 
-
+Verificar mediante la simulación las leyes de la conservación de energía electrica y la conservación de carga.
 
 
 
