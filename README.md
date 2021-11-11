@@ -91,10 +91,24 @@
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
+**Materiales y equipo requerido**
 
+|**Cantidad**|**Material o equipo**|
+|----|----|
+|1|Fuente de Voltaje de C.D.|
+|2|Multímetros Digitales|
+|1|Resistor de 1kΩ|
+|2|Resistores de 2.2 kΩ|
+|1|Resistores de 1.8 kΩ|
+|1|Resistores de 3.9 kΩ|
+|1|Protoboard|
 
+Arme el circuito que se muestra en la figura 1.1.
 
+![image](https://user-images.githubusercontent.com/93739242/141354630-7fb2ebbe-ca95-4d70-aece-c4ec74589ae0.png)
 
+Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
+resultados de las mediciones en la **tabla 1.1**.
 
 
 
