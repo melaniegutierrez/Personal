@@ -42,7 +42,7 @@ Verificar mediante la simulación las leyes de la conservación de energía elec
 
 **2.MARCO TEÓRICO**
 
-
+https://github.com/S3bastianCaceres/Laboratorio-1-1U/blob/main/Marco%20Teorico.jpeg
 
 
 
