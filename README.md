@@ -42,7 +42,7 @@ Verificar mediante la simulación las leyes de la conservación de energía elec
 
 **2.MARCO TEÓRICO**
 
-https://github.com/S3bastianCaceres/Laboratorio-1-1U/blob/main/Marco%20Teorico.jpeg
+![Marco Teorico](https://user-images.githubusercontent.com/93739242/141380900-caacbabf-1214-4cd2-b78c-a052c58683ff.jpeg)
 
 
 
@@ -333,7 +333,7 @@ Tabla 1.3. Verificación de la LCK.
 **7.BIBLIOGRAFÍA**
 
 
-
+Latam, M. (2020, 6 julio). Leyes de Kirchhoff. Mecatrónica LATAM. Recuperado 11 de noviembre de 2021, de https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
 
 
