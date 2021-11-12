@@ -113,6 +113,12 @@ Arme el circuito que se muestra en la figura 1.1.
 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la **tabla 1.1**.
 
+Datos teóricos
+
+[![Datos-tabla-1.png](https://i.postimg.cc/tTtwWxhk/Datos-tabla-1.png)](https://postimg.cc/Kkj0y4p3)
+
+[![Datos-tabla-1-1.png](https://i.postimg.cc/FzHWSnFF/Datos-tabla-1-1.png)](https://postimg.cc/mzKyfjFK)
+
 
 
 
