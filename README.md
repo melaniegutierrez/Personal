@@ -161,16 +161,16 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 | **VARIABLE** | **VALOR CALCULADO** | **VALOR MEDIDO** |
 | ------------- | ------------- | ------------- |
-| VR1 (V)  |               |      2.05V           |
-| IR1 (mA)  |               |     2.05mA            |
-| VR2 (V)  |               |      4.25V             |
-| IR2 (mA)  |               |     1.09mA           |
-| VR3 (V)  |               |     2.12V            |
-| IR3 (mA)  |               |    0.965mA           |
-| VR4 (V)  |               |      2.12V           |
-| IR4 (mA)  |               |    0.965mA           |
-| VR5 (V)  |               |       3.70V          |
-| IR5 (mA)  |               |     2.05mA            |
+| VR1 (V)  |               |      2.05 V           |
+| IR1 (mA)  |               |     2.05 mA            |
+| VR2 (V)  |               |      4.25 V             |
+| IR2 (mA)  |               |     1.09 mA           |
+| VR3 (V)  |               |     2.12 V            |
+| IR3 (mA)  |               |    0.965 mA           |
+| VR4 (V)  |               |      2.12 V           |
+| IR4 (mA)  |               |    0.965 mA           |
+| VR5 (V)  |               |       3.70 V          |
+| IR5 (mA)  |               |     2.05 mA            |
 
 Tabla 1.2. Verificación de la LVK.
 |  | **Trayectoria 1**     | | **Trayectoria 2** | | **Trayectoria 3** | |
