@@ -167,18 +167,18 @@ Datos teóricos
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-| **VARIABLE** | **VALOR CALCULADO** | **VALOR MEDIDO** |
-| ------------- | ------------- | ------------- |
-| VR1 (V)  |        2.05          |      2.05 V           |
-| IR1 (mA)  |       2.05       |     2.05 mA            |
-| VR2 (V)  |        4.26  |      4.25 V             |
-| IR2 (mA)  |       1.09          |     1.09 mA           |
-| VR3 (V)  |        2.13     |     2.12 V            |
-| IR3 (mA)  |       0.9681  |    0.965 mA           |
-| VR4 (V)  |        2.13       |      2.12 V           |
-| IR4 (mA)  |       0.9681        |    0.965 mA           |
-| VR5 (V)  |        3.69       |       3.70 V          |
-| IR5 (mA)  |       2.05        |     2.05 mA            |
+| **VARIABLE** | **VALOR CALCULADO** | **VALOR MEDIDO** |**%ERROR
+| ------------- | ------------- | ------------- | ------------- |
+| VR1 (V)  |        2.05          |      2.05 V           |0%|
+| IR1 (mA)  |       2.05       |     2.05 mA            |0%|
+| VR2 (V)  |        4.26  |      4.25 V             |0.23%|
+| IR2 (mA)  |       1.09          |     1.09 mA           |0%|
+| VR3 (V)  |        2.13     |     2.12 V            |0.46%|
+| IR3 (mA)  |       0.9681  |    0.965 mA           |0.32%|
+| VR4 (V)  |        2.13       |      2.12 V           |0.46%|
+| IR4 (mA)  |       0.9681        |    0.965 mA           |0.32%|
+| VR5 (V)  |        3.69       |       3.70 V          |0.27%|
+| IR5 (mA)  |       2.05        |     2.05 mA            |0%|
 
 Tabla 1.2. Verificación de la LVK.
 |  | **Trayectoria 1**     | | **Trayectoria 2** | | **Trayectoria 3** | |
