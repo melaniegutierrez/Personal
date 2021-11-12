@@ -257,11 +257,7 @@ Tabla 1.3. Verificación de la LCK.
 
 
 
-
-
-
-
-
+https://www.youtube.com/watch?v=Hll4t0dDCxo
 
 
 
