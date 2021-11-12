@@ -331,7 +331,7 @@ https://www.youtube.com/watch?v=Hll4t0dDCxo
 
 Latam, M. (2020, 6 julio). Leyes de Kirchhoff. Mecatrónica LATAM. Recuperado 11 de noviembre de 2021, de https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
-
+Las leyes de Kirchhoff (artículo). (s. f.). Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
 
 
