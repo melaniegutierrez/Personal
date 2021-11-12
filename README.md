@@ -46,6 +46,10 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 ![Marco Teorico](https://user-images.githubusercontent.com/93739242/141380900-caacbabf-1214-4cd2-b78c-a052c58683ff.jpeg)
 
+**Ley de los voltajes de Kirchhoff**
+
+[![Voltaje-de-Kirchhoff.png](https://i.postimg.cc/5yXTHNmN/Voltaje-de-Kirchhoff.png)](https://postimg.cc/jnrZmT9G)
+
 
 
 
