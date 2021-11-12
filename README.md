@@ -171,7 +171,7 @@ Datos teóricos
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-| **VARIABLE** | **VALOR CALCULADO** | **VALOR MEDIDO** |**%ERROR
+| **VARIABLE** | **VALOR CALCULADO** | **VALOR MEDIDO** |**%ERROR**
 | ------------- | ------------- | ------------- | ------------- |
 | VR1 (V)  |        2.05          |      2.05 V           |0%|
 | IR1 (mA)  |       2.05       |     2.05 mA            |0%|
