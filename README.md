@@ -9,9 +9,11 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 - **Objetivos Específicos**
 
-Verificar mediante la simulación las leyes de la conservación de energía electrica y la conservación de carga.
+- Verificar mediante la simulación las leyes de la conservación de energía electrica y la conservación de carga.
 
+- Interpretar de manera correcta el diagrama del circuito para poder reproducirlo en el simulador y asi obtener las mediciones correctas.
 
+- Aplicar conocimientos teoricos como formulas y conceptos clave que ayuden a resolver de forma adecuada las ejercicios planteados.
 
 
 
@@ -43,8 +45,6 @@ Verificar mediante la simulación las leyes de la conservación de energía elec
 **2.MARCO TEÓRICO**
 
 ![Marco Teorico](https://user-images.githubusercontent.com/93739242/141380900-caacbabf-1214-4cd2-b78c-a052c58683ff.jpeg)
-
-[![Voltaje-de-Kirchhoff.png](https://i.postimg.cc/5yXTHNmN/Voltaje-de-Kirchhoff.png)](https://postimg.cc/jnrZmT9G)
 
 
 
@@ -302,17 +302,9 @@ Tabla 1.3. Verificación de la LCK.
 
 **6.CONCLUSIONES**
 
-
-
-
-
-
-
-
-
-
-
-
+- Gracias a la simulación que realizamos en Tinkercad se pudo comprobar el como las leyes de conservación de energia y conservación de carga se cumplen y demuestran que la energia no se crea ni se destruye solo se transforma.
+- Luego de analizar y utilizar los componentes dentro del simulador se pudo realizar la interpretacion del diagrama del circuito de manera adecuada obteniendo valores que cumplen con el tema del laboratorio.
+- Al revisar y analizar la teoria propuesta sobre varios temas que fueron utiles para la comprención de los ejercicios fue mas sencillo realizarlos
 
 
 
