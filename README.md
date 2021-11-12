@@ -44,6 +44,8 @@ Verificar mediante la simulación las leyes de la conservación de energía elec
 
 ![Marco Teorico](https://user-images.githubusercontent.com/93739242/141380900-caacbabf-1214-4cd2-b78c-a052c58683ff.jpeg)
 
+[![Voltaje-de-Kirchhoff.png](https://i.postimg.cc/5yXTHNmN/Voltaje-de-Kirchhoff.png)](https://postimg.cc/jnrZmT9G)
+
 
 
 
